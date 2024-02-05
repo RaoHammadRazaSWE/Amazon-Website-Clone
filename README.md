@@ -1,1 +1,1 @@
-# Amazon-Frontend-Website-Clone
+# Amazon Frontend Website Clone
